@@ -1,8 +1,6 @@
 /*
 Copyright© 2019 By Fajar Firdaus
 
-Please don't recode my program because i take a long time to complete this project :)
-
 */
 
 package main
